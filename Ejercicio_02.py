@@ -16,7 +16,7 @@ print('Estoy pensando en un numero entre el 1 y el 100 intente adivinarlo en 10 
 
 while intentos<10:
     adivina=input()
-    adivina=int(adivina)
+    adivina=(int)(adivina)
 
     intentos=intentos+1
    

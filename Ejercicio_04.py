@@ -10,7 +10,7 @@ cant=int(input("Introduzca la cantidad de numeros que quiere introducir"))
 for i in range (0,cant):
     numero=int(input("Introduzca un numero "))
     if numero==0:
-     ig= ig+1
+     ig=ig+1
     if numero<0:
      men=men+1
     if numero>0:
